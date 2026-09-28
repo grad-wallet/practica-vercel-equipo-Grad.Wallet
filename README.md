@@ -1,2 +1,1 @@
-# practica-vercel-equipo-Grad.Wallet
-Repositorio de práctica para Vercel.
+Integrantes: Evelyn, Isabelle, Alexander, Orianan, Celeste, Jose, Ian
